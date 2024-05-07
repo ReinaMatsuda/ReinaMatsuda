@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Alp Saygı</h1>
-<h3 align="center">I am a software engineer from Turkey.</h3>
+<h3 align="center">I am a software engineer from Türkiye.</h3>
 
 - 📫 How to reach me **darknesse-03@hotmail.com**
 
